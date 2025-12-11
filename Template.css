@@ -1,0 +1,42 @@
+body{
+	text-align: center;
+	background-image: url('Shadows_over_Waterdeep.png');
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+}
+p{
+	
+	background: rgba(255,255,255,0.4);
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+	text-align: center;
+}
+h1{
+	background: rgba(255,255,255,0.4);
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	text-align: center;
+}
+
+h2{
+	background: rgba(255,255,255,0.4);
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	text-align: center;
+}
+
+.notes{
+	background: rgba(255,255,255,0.4);
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	text-align: center;
+}
